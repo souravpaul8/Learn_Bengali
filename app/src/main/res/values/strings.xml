@@ -1,0 +1,35 @@
+
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Learn Bengali</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <string name="category_fruits">Fruits</string>
+
+    <string name="category_vegetables">Vegetables</string>
+
+    <string name="category_animals">Animals</string>
+
+    <string name="category_credits">Credits</string>
+
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+    <string name="family_activity_title">Family</string>
+    <string name="numbers_activity_title">Numbers</string>
+    <string name="colors_activity_title">Colors</string>
+    <string name="phrases_activity_title">Phrases</string>
+    <string name="fruits_activity_title">Fruits</string>
+    <string name="vegetable_activity_title">Vegetable</string>
+    <string name="animals_activity_title">Animals</string>
+    <string name="credits_activity_title">Credits</string>
+
+</resources>
