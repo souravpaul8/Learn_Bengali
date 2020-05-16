@@ -1,7 +1,7 @@
-Miwok App
+Learn Bengali App
 ===================================
 
-This app displays lists of vocabulary words for the user to learn the Miwok language.
+This app displays lists of vocabulary words for the user to learn the Bangla language.
 Used in a Udacity course in the Beginning Android Nanodegree.
 
 Pre-requisites
